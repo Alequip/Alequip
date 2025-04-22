@@ -15,20 +15,6 @@ I’m an IT Engineer with 2 years of experience in the field, currently finishin
 
 I work in the IT department at Taco Bell Costa Rica & Panama, where I manage projects, develop tailored solutions, and automate processes to help optimize operational efficiency and reduce costs. I’m passionate about continuous learning and using tech to drive impactful results.
 
-- 🌱 I’m currently learning ...
-  - Azure Cloud Architecture
-  - AWS Cloud Solutions
-
-- 🤝 I’m open to collaborate on automation and cloud-based projects
-
-- 💬 Ask me about IT project management, business process automation, or anything tech — happy to help!
-
-Outside tech, 🎮 I enjoy playing videogames, 🎧 listening to music, and 📺 watching series in my free time.
-
-🔧 I’m also building my skills in Power Platform and scripting for automation.
-
-📫 Reach out to me at: [ale.quiros.palma@gmail.com]
-
 ### Languages and Tools 🛠 
 
 
@@ -47,9 +33,7 @@ Outside tech, 🎮 I enjoy playing videogames, 🎧 listening to music, and 📺
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
+
 
 <br/>
 
