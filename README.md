@@ -54,10 +54,13 @@ I'm passionate about applying AI responsibly (compliance, audit logging, privacy
 
 ## 📊 GitHub stats
 
-<a href="https://github.com/Alequip">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Alequip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alequip&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Alequip&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Alequip&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
+</p>
 
 ---
 
