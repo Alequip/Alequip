@@ -65,7 +65,7 @@ I'm passionate about applying AI responsibly (compliance, audit logging, privacy
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alequip&style=for-the-badge&color=blueviolet&label=Profile+views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Alequip&style=for-the-badge&color=blueviolet&label=Profile+views&base=0" alt="Profile views" />
 </p>
 
 ---
