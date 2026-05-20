@@ -21,20 +21,6 @@ I'm passionate about applying AI responsibly (compliance, audit logging, privacy
 
 ---
 
-## 🚀 Currently building
-
-### Nacho — Enterprise AI assistant
-Natural-language analytics over POS sales, loyalty (Mordiscos), and personal productivity. Lives in Microsoft Teams + web portal. Used daily by execs, marketing, finance, ops and restaurant managers.
-
-**Stack:** n8n · Azure OpenAI (GPT-4.1) · AWS Athena · MongoDB · Redis · Azure Blob Storage · Microsoft Bot Framework
-
-### ITMonitorApp — Corporate IT portal
-SSO-protected internal portal with IT operations dashboards, service monitoring, and the integrated Nacho analytics dashboard. Built and maintained for the IT department.
-
-**Stack:** Flask · Jinja2 · Bootstrap 5 · Chart.js · Azure App Service · CosmosDB
-
----
-
 ## 🛠️ Languages & Tools
 
 ### Core
