@@ -4,7 +4,7 @@
 
 ## 🧑‍💻 About me
 
-<img align="right" width="280" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="" style="visibility:hidden;" />
+<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Coder animation" />
 
 I'm an **IT Engineer at Taco Bell Costa Rica & Panama** with 2+ years of professional experience (since October 2023). I'm finishing my Bachelor's degree in Information Technology at **Universidad Invenio**.
 
