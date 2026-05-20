@@ -1,72 +1,89 @@
-<h1 align="center"><b>Hi , I'm Alejandro Quirós </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Hi, I'm Alejandro Quirós 👋
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
-
-I’m an IT Engineer with 2 years of experience in the field, currently finishing my Bachelor's degree in Information Technology at Universidad Invenio.
-
-I work in the IT department at Taco Bell Costa Rica & Panama, where I manage projects, develop tailored solutions, and automate processes to help optimize operational efficiency and reduce costs. I’m passionate about continuous learning and using tech to drive impactful results.
-
-### Languages and Tools 🛠 
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
-
-<br/>
+<!-- Snake animation - keep your existing setup that generates this -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alequip/Alequip/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Alequip/Alequip/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Alequip/Alequip/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
+## 🧑‍💻 About me
 
+<img align="right" width="280" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="" style="visibility:hidden;" />
 
+I'm an **IT Engineer at Taco Bell Costa Rica & Panama** with 2+ years of professional experience (since October 2023). I'm finishing my Bachelor's degree in Information Technology at **Universidad Invenio**.
 
+My day-to-day is building **AI assistants and internal data platforms** that help our teams make data-driven decisions and automate manual processes. I work across the full stack — from low-level SQL on Amazon Athena to LLM agent design to dashboards for executives.
 
+I'm passionate about applying AI responsibly (compliance, audit logging, privacy by design) and about building tools people actually want to use.
 
+---
 
+## 🚀 Currently building
 
+### Nacho — Enterprise AI assistant
+Natural-language analytics over POS sales, loyalty (Mordiscos), and personal productivity. Lives in Microsoft Teams + web portal. Used daily by execs, marketing, finance, ops and restaurant managers.
 
+**Stack:** n8n · Azure OpenAI (GPT-4.1) · AWS Athena · MongoDB · Redis · Azure Blob Storage · Microsoft Bot Framework
 
+### ITMonitorApp — Corporate IT portal
+SSO-protected internal portal with IT operations dashboards, service monitoring, and the integrated Nacho analytics dashboard. Built and maintained for the IT department.
 
+**Stack:** Flask · Jinja2 · Bootstrap 5 · Chart.js · Azure App Service · CosmosDB
 
+---
 
+## 🛠️ Languages & Tools
 
+### Core
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+### AI / LLM
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3A3A?style=for-the-badge&logo=chainlink&logoColor=white)
 
+### Data
+![AWS Athena](https://img.shields.io/badge/AWS_Athena-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
+### Cloud & Infra
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+---
 
+## 📊 GitHub stats
 
+<a href="https://github.com/Alequip">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Alequip&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alequip&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</a>
 
+---
 
+## 📫 Get in touch
 
-
-
-
-
-
-
-
+- 🌎 Costa Rica
+- 📷 Instagram: [@ale_quip](https://www.instagram.com/ale_quip)
+- 💼 Open to chat about AI, automation, data platforms, and impactful tech for ops teams.
