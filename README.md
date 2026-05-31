@@ -59,6 +59,7 @@ I'm passionate about applying AI responsibly (compliance, audit logging, privacy
     <img src="https://streak-stats.demolab.com?user=Alequip&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats" />
   </a>
 </p>
+
 ---
 
 ## 📫 Get in touch
