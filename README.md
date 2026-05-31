@@ -59,15 +59,6 @@ I'm passionate about applying AI responsibly (compliance, audit logging, privacy
     <img src="https://streak-stats.demolab.com?user=Alequip&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak stats" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Alequip&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub trophies" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alequip&style=for-the-badge&color=blueviolet&label=Profile+views&base=0" alt="Profile views" />
-</p>
-
 ---
 
 ## 📫 Get in touch
