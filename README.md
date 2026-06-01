@@ -66,4 +66,3 @@ I'm passionate about applying AI responsibly (compliance, audit logging, privacy
 
 - 🌎 Costa Rica
 - 📷 Instagram: [@ale_quip](https://www.instagram.com/ale_quip)
-- 💼 Open to chat about AI, automation, data platforms, and impactful tech for ops teams.
