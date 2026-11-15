@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro Quirós 👋
 
-**IT Engineer at Taco Bell Costa Rica & Panama** · I design and ship production data platforms and AI agents, end to end: from data pipelines and data lakes to LLM evaluation, CI/CD and the web app people actually use.
+**Software architecture & AI engineering at Taco Bell Costa Rica & Panama** · I design and ship production data platforms and AI agents, end to end: from data pipelines and data lakes to LLM evaluation, CI/CD and the web app people actually use.
 
 📍 Costa Rica · 🎓 Finishing a B.Sc. in Information Technology at Universidad Invenio
 
